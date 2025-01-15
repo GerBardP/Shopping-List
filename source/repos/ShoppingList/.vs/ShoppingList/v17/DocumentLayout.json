@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\converters\\booltostyleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\converters\\booltostyleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|c:\\users\\pioterer\\source\\repos\\shoppinglist\\shoppinglist\\converters\\booltostrikethroughconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6931E91A-A8D7-4F55-BBEB-0CE55D77318B}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\converters\\booltostrikethroughconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:85371364:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\App.xaml.cs",
+              "RelativeToolTip": "ShoppingList\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:21:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Views\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Views\\ProductView.xaml.cs",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Views\\ProductView.xaml.cs",
+              "RelativeToolTip": "ShoppingList\\Views\\ProductView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:15:00.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ShoppingList\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\MainPage.xaml",
+              "RelativeToolTip": "ShoppingList\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T16:42:49.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoolToStrikethroughConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Converters\\BoolToStrikethroughConverter.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Converters\\BoolToStrikethroughConverter.cs",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Converters\\BoolToStrikethroughConverter.cs",
+              "RelativeToolTip": "ShoppingList\\Converters\\BoolToStrikethroughConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:36:58.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoolToStyleConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Converters\\BoolToStyleConverter.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Converters\\BoolToStyleConverter.cs",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Converters\\BoolToStyleConverter.cs",
+              "RelativeToolTip": "ShoppingList\\Converters\\BoolToStyleConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:36:57.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Models\\Product.cs",
+              "RelativeToolTip": "ShoppingList\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:36:54.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\MainPage.xaml.cs",
+              "RelativeToolTip": "ShoppingList\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:35:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Services\\ProductService.cs",
+              "RelativeToolTip": "ShoppingList\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:35:28.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Views\\ProductView.xaml",
+              "RelativeDocumentMoniker": "ShoppingList\\Views\\ProductView.xaml",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\Views\\ProductView.xaml",
+              "RelativeToolTip": "ShoppingList\\Views\\ProductView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T16:35:24.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ShoppingList\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Pioterer\\source\\repos\\ShoppingList\\ShoppingList\\AppShell.xaml",
+              "RelativeToolTip": "ShoppingList\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T16:34:42.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
